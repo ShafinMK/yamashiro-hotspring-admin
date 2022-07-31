@@ -1,0 +1,521 @@
+[
+    
+    {
+      "foodName": "Alu Shingara",
+      "foodThumb": "https://i.pinimg.com/564x/ac/c8/c3/acc8c3055a7e457bbb78f6cb4a278bb1.jpg",
+      "price": 5,
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 340
+    },
+    {
+      "foodName": "Nan Roti",
+      "foodThumb": "https://media.istockphoto.com/photos/closeup-photograph-of-a-pile-of-plain-naan-flatbreads-picture-id183564340?k=20&m=183564340&s=612x612&w=0&h=aMCmD-sj-AT0VqV8bxICw9F7Dj7kpATdTrX7-V_qPto=",
+      "price": 10,
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 259
+    },
+    {
+      "foodName": "Special Nan Roti",
+      "foodThumb": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Naan_shiva.jpg",
+      "price": 20,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 5,
+      "orderedTotal": 340
+    },
+    {
+      "foodName": "Porota",
+      "foodThumb": "https://thumbs.dreamstime.com/b/indian-paratha-multi-layered-flat-bread-36118722.jpg",
+      "price": 10,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 541
+    },
+    {
+      "foodName": "Vegetable",
+      "foodThumb": "https://i.ytimg.com/vi/xkjLAWjKrU0/maxresdefault.jpg",
+      "price": 20,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 5,
+      "orderedTotal": 634
+    },
+    {
+      "foodName": "Mugdal",
+      "foodThumb": "https://media-cdn.greatbritishchefs.com/media/dpiigoaq/img85513.jpg?mode=crop&width=1426&height=713",
+      "price": 30,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 340
+    },
+    {
+      "foodName": "Chicken Soup",
+      "foodThumb": "https://static.toiimg.com/thumb/61575723.cms?imgsize=462719&width=800&height=800",
+      "price": 40,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 122
+    },
+    {
+      "foodName": "Buter Dal",
+      "foodThumb": "https://img-global.cpcdn.com/recipes/547d7df6f3d52d35/680x482cq70/%E0%A6%9B%E0%A6%B2%E0%A6%B0-%E0%A6%A1%E0%A6%B2-%E0%A6%A6%E0%A6%AF-%E0%A6%9A%E0%A6%95%E0%A6%A8-%E0%A6%95%E0%A6%B0-cholar-dal-diye-chicken-curry-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg",
+      "price": 120,
+  
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 445
+    },
+    {
+      "foodName": "Khashir Kolija",
+      "foodThumb": "https://i.ytimg.com/vi/Ke5v0285jdM/maxresdefault.jpg",
+      "price": 10,
+
+      "quantity": 1,
+      "time": "",
+      "rating": 4,
+      "orderedTotal": 242
+    },
+    {
+      "foodName": "Khashir Paya",
+      "foodThumb": "https://alkaderia.com/wp-content/uploads/2020/07/mutton-paya.png",
+      "price": 80,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 340
+    },
+    {
+      "foodName": "Khashir Rejala",
+      "foodThumb": "https://static.wixstatic.com/media/05c508_16795b66a94b4ccdb8e51c7519ce28f0~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpg",
+      "price": 150,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 343
+    },
+    {
+      "foodName": "Chicken Jhal Fry",
+      "foodThumb": "https://i.ytimg.com/vi/HH7yw3L1N1k/hqdefault.jpg",
+      "price": 80,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 559
+    },
+    {
+      "foodName": "Chicken Roast",
+      "foodThumb": "https://c.ndtvimg.com/2019-12/5f6fg0l8_keraal-roast-chicken_625x300_14_December_19.jpg",
+      "price": 80,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 4,
+      "orderedTotal": 234
+    },
+    {
+      "foodName": "Tea (Dudh cha)",
+      "foodThumb": "https://i.ytimg.com/vi/ogB4Y3dmODQ/maxresdefault.jpg",
+      "price": 15,
+
+      "quantity": 1,
+      "time": "Breakfast",
+      "rating": 5,
+      "orderedTotal": 640
+    },
+    {
+      "foodName": "Sada Bhat (rice)",
+      "foodThumb": "https://cdn.t.shef.com/unsafe/0x400/center/middle/https://shef-general.s3.amazonaws.com/uploads/939c9853-652d-4b18-9591-ffc19b9d9124_62c8b26e-ce05-4169-a3db-292a20cbbdca.jpg",
+      "price": 20,
+
+      "quantity": 1,
+      "time": "",
+      "rating": 3,
+      "orderedTotal": 144
+    },
+    {
+      "foodName": "Polau",
+      "foodThumb": "https://i.ytimg.com/vi/sx4o52UUZ_o/maxresdefault.jpg",
+      "price": 50,
+
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 5,
+      "orderedTotal": 312
+    },
+    {
+      "foodName": "Dal",
+      "foodThumb": "https://static.toiimg.com/thumb/71661408.cms?imgsize=3499522&width=800&height=800",
+      "price": 10,
+
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 4,
+      "orderedTotal": 453
+    },
+    {
+      "foodName": "Korola vaji",
+      "foodThumb": "https://i.ytimg.com/vi/BWYzccB93x8/maxresdefault.jpg",
+      "price": 20,
+
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 4,
+      "orderedTotal": 124
+    },
+    {
+      "foodName": "Shak",
+      "foodThumb": "https://i.ytimg.com/vi/X8l0ef8-AQQ/maxresdefault.jpg",
+      "price": 10,
+      
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 5,
+      "orderedTotal": 640
+    },
+    {
+      "foodName": "Vorta",
+      "foodThumb": "https://images.deliveryhero.io/image/fd-bd/LH/s3wq-hero.jpg",
+      "price": 20,
+      
+      "quantity": 2,
+      "time": "Lunch",
+      "rating": 5,
+      "orderedTotal": 1052
+    },
+    {
+      "foodName": "Pabda Mach",
+      "foodThumb": "https://i.ytimg.com/vi/0nbYGaoSVzo/maxresdefault.jpg",
+      "price": 180,
+      
+      "quantity": 2,
+      "time": "",
+      "rating": 4,
+      "orderedTotal": 340
+    },
+    {
+      "foodName": "Rui Mach",
+      "foodThumb": "http://notoutofthebox.in/wp-content/uploads/2013/12/rm.jpg",
+      "price": 80,
+      
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 4,
+      "orderedTotal": 212
+    },
+    {
+      "foodName": "Katla Mach",
+      "foodThumb": "https://atmykitchen.net/wp-content/uploads/2022/01/macherjhol7245493500660438948-500x375.jpg?crop=1",
+      "price": 80,
+      
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 5,
+      "orderedTotal": 520
+    },
+    {
+      "foodName": "Shing Mach",
+      "foodThumb": "https://i.ytimg.com/vi/SEM5qVGVifQ/maxresdefault.jpg",
+      "price": 120,
+      
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 4,
+      "orderedTotal": 340
+    },
+    {
+      "foodName": "Chingri",
+      "foodThumb": "https://i.ytimg.com/vi/mt72nMCqZ1k/hqdefault.jpg",
+      "price": 150,
+      
+      "quantity": 1,
+      "time": "Lunch",
+      "rating": 5,
+      "orderedTotal": 350
+    },
+    {
+      "foodName": "Ilish Mach",
+      "foodThumb": "https://i.ytimg.com/vi/3ZX8bVJ00rw/maxresdefault.jpg",
+      "price": 10,
+      
+      "quantity": 1,
+      "time": "",
+      "rating": 4,
+      "orderedTotal": 441
+    },
+    {
+      "foodName": "Koi Mach",
+      "foodThumb": "https://foodpeon.com/wp-content/uploads/2018/04/IMG_4564.jpg",
+      "price": 100,
+      
+      "quantity": 1,
+      "time": "Lunh",
+      "rating": 4,
+      "orderedTotal": 334
+    },
+    {
+      "foodName": "Chicken Masala",
+      "foodThumb": "https://ml5jqffo9xcx.i.optimole.com/ua3WCVA-UYvYLUGd/w:1920/h:1080/q:mauto/https://allchickenrecipe.com/wp-content/uploads/2020/05/Chicken-Masala.jpg",
+      "price": 120,
+      
+      "quantity": 1,
+      "time": "Lunh",
+      "rating": 4,
+      "orderedTotal": 234
+    },
+    {
+      "foodName": "Hash Vuna",
+      "foodThumb": "https://pbs.twimg.com/media/ElW0Z8eUcAE3D2T?format=jpg&foodName=4096x4096",
+      "price": 200,
+      
+      "quantity": 1,
+      "time": "Lunh",
+      "rating": 4,
+      "orderedTotal": 222
+    },
+    {
+      "foodName": "Koyel Pakhi vuna",
+      "foodThumb": "https://www.daily-bangladesh.com/media/imgAll/2021March/yy-2106040509.jpg",
+      "price": 100,
+      
+      "quantity": 1,
+      "time": "Lunh",
+      "rating": 4,
+      "orderedTotal": 140
+    },
+    {
+      "foodName": "Jali Kebab",
+      "foodThumb": "https://khadizaskitchen.files.wordpress.com/2013/10/0041.jpg",
+      "price": 30,
+      
+      "quantity": 1,
+      "time": "Lunh",
+      "rating": 4,
+      "orderedTotal": 500
+    },
+    {
+      "foodName": "Shami Kebab",
+      "foodThumb": "https://i.pinimg.com/originals/c6/1a/9e/c61a9e00a9807257a0bfe01c9cc71b9d.jpg",
+      "price": 30,
+      
+      "quantity": 1,
+      "time": "Lunh",
+      "rating": 4,
+      "orderedTotal": 324
+    },
+    {
+      "foodName": "Tundul Roti",
+      "foodThumb": "https://i.ytimg.com/vi/S6VDmnh-qq4/maxresdefault.jpg",
+      "price": 20,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 5,
+      "orderedTotal": 740
+    },
+    {
+      "foodName": "Muri Ghonto",
+      "foodThumb": "https://static.wixstatic.com/media/05c508_d769cf05b1f546ec8c4a7ea71e2910a3~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_90,usm_0.66_1.00_0.01/05c508_d769cf05b1f546ec8c4a7ea71e2910a3~mv2.jpg",
+      "price": 20,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 112
+    },
+    {
+      "foodName": "Chicken Sharma",
+      "foodThumb": "https://i.ytimg.com/vi/BNOYdVP4P7g/maxresdefault.jpg",
+      "price": 50,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 340
+    },
+    {
+      "foodName": "Chicken Grill (quarter)",
+      "foodThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIs35ci5YJUt-tPT82XRoyKaOgCMcUibNzSw&usqp=CAU",
+      "price": 100,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 5,
+      "orderedTotal": 1040
+    },
+    {
+      "foodName": "Chicken Grill(full)",
+      "foodThumb": "https://www.seriouseats.com/thmb/z7ZQbFHrNUbgAW1E5TZJQhT4oGw=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__08__20120805-food-lab-grilled-chicken-24-6b3f49da85f5488aa29fdcaf8350ae05.jpg",
+      "price": 400,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 5,
+      "orderedTotal": 945
+    },
+    {
+      "foodName": "Halim(khashi)",
+      "foodThumb": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/dhakaiya_halim/meta/dhakaiya_halim_cover_1620111625293.jpg",
+      "price": 60,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 3940
+    },
+    {
+      "foodName": "Halim(Beef)",
+      "foodThumb": "https://www.astha-bd.com/wp-content/uploads/2018/10/recette-mauricienne-halim.jpg",
+      "price": 60,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 2343
+    },
+    {
+      "foodName": "Halim(Beef)",
+      "foodThumb": "https://www.astha-bd.com/wp-content/uploads/2018/10/recette-mauricienne-halim.jpg",
+      "price": 60,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 2343
+    },
+    {
+      "foodName": "Ghila Kolija vuna",
+      "foodThumb": "https://i.ytimg.com/vi/7mS-Et5QCFM/maxresdefault.jpg",
+      "price": 80,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 2342
+    },
+    {
+      "foodName": "Morog Polau",
+      "foodThumb": "https://www.deshcatering.com/wp-content/uploads/2020/06/motorshuti-peas-polao-chicken-roast-jali-kabab-desh-catering-service-company-dhaka.jpg",
+      "price": 150,
+      
+      "quantity": 1,
+      "time": "Lunch, Dinner",
+      "rating": 4,
+      "orderedTotal": 2343
+    },
+    {
+      "foodName": "Vuna Khichuri (Chicken)",
+      "foodThumb": "https://live.staticflickr.com/8732/16581221243_aa875a611f_b.jpg",
+      "price": 120,
+      
+      "quantity": 1,
+      "time": "Lunch, Dinner",
+      "rating": 4,
+      "orderedTotal": 2234
+    },
+    {
+      "foodName": "Vuna Khichuri (Beef)",
+      "foodThumb": "https://i.pinimg.com/originals/50/84/55/5084557e259867aefde253ebebfd0b9d.jpg",
+      "price": 130,
+      
+      "quantity": 1,
+      "time": "Lunch, Dinner",
+      "rating": 5,
+      "orderedTotal": 320
+    },
+    {
+      "foodName": "Vuna Khichuri (Mutton)",
+      "foodThumb": "https://i.ytimg.com/vi/WCDfgc7cJZI/maxresdefault.jpg",
+      "price": 150,
+      
+      "quantity": 1,
+      "time": "Lunch, Dinner",
+      "rating": 4,
+      "orderedTotal": 3232
+    },
+    {
+      "foodName": "Kacchi Biriyani",
+      "foodThumb": "https://i.ytimg.com/vi/rb_6-HVhMrk/maxresdefault.jpg",
+      "price": 450,
+      
+      "quantity": 1,
+      "time": "",
+      "rating": 5,
+      "orderedTotal": 1240
+    },
+    {
+      "foodName": "Faluda",
+      "foodThumb": "https://img-global.cpcdn.com/recipes/5517ff2bb1f920f5/751x532cq70/sabudana-royal-faluda-recipe-main-photo.jpg",
+      "price": 120,
+      
+      "quantity": 1,
+      "time": "Evening, Dinner, Lunch",
+      "rating": 5,
+      "orderedTotal": 122
+    },
+    {
+      "foodName": "Lacchi",
+      "foodThumb": "https://www.observerbd.com/2015/04/19/1429454911.jpg",
+      "price": 80,
+      
+      "quantity": 1,
+      "time": "Lunch, Evening, Dinner",
+      "rating": 4,
+      "orderedTotal": 234
+    },
+    {
+      "foodName": "Cup Doi",
+      "foodThumb": "https://www.shodagor.com/wp-content/uploads/2020/03/75446477_568753877205592_3158168372772864000_n-600x650-1-600x600.jpg",
+      "price": 40,
+      
+      "quantity": 1,
+      "time": "Lunch, Evening, Dinner",
+      "rating": 5,
+      "orderedTotal": 682
+    },
+    {
+      "foodName": "Pudding",
+      "foodThumb": "https://www.chileanfoodandgarden.com/wp-content/uploads/2012/01/semola-con-leche-10-2048x1388.jpg",
+      "price": 50,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 120
+    },
+    {
+      "foodName": "Noddles",
+      "foodThumb": "https://3.imimg.com/data3/UP/YK/MY-17273090/hakka-noddles-500x500.jpg",
+      "price": 100,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 4,
+      "orderedTotal": 323
+    },
+    {
+      "foodName": "Thai Soup",
+      "foodThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoUXRu-ZS26fNJXBMXfGK88PYEXmWPCvQvw&usqp=CAU",
+      "price": 120,
+      
+      "quantity": 1,
+      "time": "Evening",
+      "rating": 5,
+      "orderedTotal": 502
+    }
+  ]
